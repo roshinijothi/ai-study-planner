@@ -1,6 +1,6 @@
  AI Study Planner for Engineering Students
  ## DEMO VIDEO
- https://drive.google.com/file/d/1t8gJAoaYog2diGZBQklo4jGumwB8owix/view?usp=sharing
+ https://drive.google.com/file/d/1qgeyEky7BsTSBPiehoripXZWKC7gS9fd/view?usp=sharing
 
 Problem:
 Engineering students struggle to allocate limited study time across multiple complex subjects with different cognitive loads, prerequisites, and deadlines. Traditional planners are static and non-adaptive.
@@ -35,3 +35,4 @@ Future Improvements:
 >Adaptive re-planning based on progress
 >weekend vs weekday scheduling
 >web-based UI dashboard
+
